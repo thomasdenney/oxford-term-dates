@@ -13,7 +13,7 @@ Then run either of the following:
 
 ```
 > ./oxtermdate.py 2017-02-14
-5th week Tuesday
+Tuesday of 5th week
 > ./oxtermdate.py Tu5
 2017-02-14
 ```
